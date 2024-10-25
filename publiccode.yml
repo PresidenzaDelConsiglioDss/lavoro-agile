@@ -55,7 +55,7 @@ description:
 
       L'applicazione si integra con:
 
-      - Il motore di Workflow open source [Elsa](++https://v2.elsaworkflows.io/++), su cui girano i workflow di approvazione degli accordi
+      - Il motore di Workflow open source [Elsa](https://v2.elsaworkflows.io/), su cui girano i workflow di approvazione degli accordi
 
       - L'HRMS adottato dall'amministrazione, da cui recupera l'anagrafica utenti ed a cui invia le informazioni su attività e giornate di smart working
 
@@ -72,7 +72,7 @@ description:
       A corredo dell'applicazione, sono presenti due applicazioni che consentono di definire workflow e di monitorare lo stato della coda e dei workflow.
 
     features:
-      - Generazione, modifica, sottoscrizione, ricerca di un accordi di lavoro agile
+      - Generazione, modifica, sottoscrizione, ricerca di accordi di lavoro agile
       - Valutazione di accordi
       - Invio informazioni di accordo a Ministero del lavoro
       - Invio informazioni su attività e giornate di un accordo a sistemi esterni
